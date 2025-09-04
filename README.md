@@ -28,8 +28,11 @@ Login once via a local web server, then enjoy play/pause, skip, like/unlike, vol
 ### Screenshots
 project in action:
 
+![image alt](https://github.com/teshd/SpotifyControllerIoT/blob/6e50a701373c76abc6dcc1f0054fd64d77282c12/Picture1.jpg)
+![image alt](https://github.com/teshd/SpotifyControllerIoT/blob/6e50a701373c76abc6dcc1f0054fd64d77282c12/Picture2.jpg)
 
-### Wiring Diagram
+
+### ![Wiring Diagram](https://github.com/teshd/SpotifyControllerIoT/blob/6e50a701373c76abc6dcc1f0054fd64d77282c12/Schematic_spotifyproject.pdf)
 
 ## Getting started
 1) Clone Repository
